@@ -2,4 +2,7 @@ fastapi
 uvicorn
 numpy
 opencv-python
+torch==2.3.0+cpu
+torchvision==0.18.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
 ultralytics
